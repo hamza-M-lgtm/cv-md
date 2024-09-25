@@ -21,7 +21,7 @@ Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer 
 - **Baccalauréat Lettres et Langues étrangères**  
   *De septembre 2007 à juillet 2010 - **chihani bachir**
 
-### Expériences professionnelles###
+### Expériences professionnelles
 
 - **Opérateur et chef d'équipe en logistique - secteur câblerie**  
   Depuis mars 2022 - Rexel, Cestas
