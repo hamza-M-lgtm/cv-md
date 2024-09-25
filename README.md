@@ -37,6 +37,7 @@ Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer 
 - **Surveillance vidéo**  
   D'avril 2017 à juin 2018 - Eclipse, Lormont 
   Surveillance vidéo et rapport d'anomalie.
+  
 
 ### Centres d'intérêt###
 
@@ -44,3 +45,5 @@ Autonome et enthousiaste, mes premières expériences m'ont permis de renforcer 
 - CrossFit
 - Piano
 
+URLs :
+ https://www.linkedin.com/in/hamza-malki-245aba211
