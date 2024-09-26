@@ -1,5 +1,5 @@
 # Mon CV
-
+![photo cv](https://www.japanfm.fr/wp-content/uploads/2023/11/roronoa-zoro-one-piece-sourire-scaled.jpg)
 # Hamza Malki
 
 **Technicien supérieur en systèmes et réseaux**
